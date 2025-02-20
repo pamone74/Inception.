@@ -25,4 +25,4 @@ This project involves setting up a small infrastructure using Docker Compose on 
 1. **Clone this repository** to your virtual machine.
    
    ```bash
-   git clone <repository_url>
+ 
